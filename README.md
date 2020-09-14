@@ -35,10 +35,6 @@ Abadi, Martín; et al, 2015: "TensorFlow: Large-scale machine learning on hetero
 
 #Software versions
 
-WRF:
-Weka:
-Tensorflow:
-
 #Datasets
 
 #How to run?
