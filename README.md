@@ -33,13 +33,21 @@ Abadi, Martín; et al, 2015: "TensorFlow: Large-scale machine learning on hetero
 
 #Repository structure
 
+README.md
+
+models/nn-tf.json : tensorflow model topology  
+ 
+models/nn-tf.h5 : tensorflow model weights
+
+models/nn-weka.model : weka model topology and weights
+
+util/functions.py : functions used for creating the pseudo-observation matrix for neural networks model training
+
 #Software versions
 
-#Datasets
+Weka : 3.9.3
 
-#How to run?
-
-#Reference paper
+TensorFlow : 2.0.0
 
 
 
