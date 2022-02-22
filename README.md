@@ -43,6 +43,10 @@ models/nn-weka.model : weka model topology and weights
 
 util/functions.py : functions used for creating the pseudo-observation matrix for neural networks model training
 
+data/metar_february_2014-2019_littler.csv : surface data used in the assimilation process
+
+data/SOUND_2014-2019_littler.zip : upper-air data used in the assimilation process
+
 #Software versions
 
 Weka : 3.9.3
